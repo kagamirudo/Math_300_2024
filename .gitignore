@@ -38,3 +38,7 @@ written/*.pdf
 
 merge/*
 merge/*.pdf
+
+project/*
+project/*.pdf
+project/*.ipynb
